@@ -1,10 +1,10 @@
 {
   "current": {
     "logo_width": 90,
-    "colors_solid_button_labels": "#0bf52e",
-    "colors_accent_1": "#121212",
+    "colors_solid_button_labels": "#fafafa",
+    "colors_accent_1": "#c36363",
     "gradient_accent_1": "",
-    "colors_accent_2": "#334fb4",
+    "colors_accent_2": "#f3f3f3",
     "gradient_accent_2": "",
     "colors_text": "#121212",
     "colors_outline_button_labels": "#121212",
@@ -22,7 +22,7 @@
     "spacing_grid_vertical": 8,
     "buttons_border_thickness": 1,
     "buttons_border_opacity": 100,
-    "buttons_radius": 0,
+    "buttons_radius": 10,
     "buttons_shadow_opacity": 0,
     "buttons_shadow_horizontal_offset": 0,
     "buttons_shadow_vertical_offset": 4,
